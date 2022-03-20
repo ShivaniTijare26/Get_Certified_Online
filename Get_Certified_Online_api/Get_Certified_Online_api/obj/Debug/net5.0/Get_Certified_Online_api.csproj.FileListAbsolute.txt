@@ -1,0 +1,122 @@
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\appsettings.Development.json
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\appsettings.json
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.exe
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.deps.json
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.runtimeconfig.json
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.runtimeconfig.dev.json
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\ref\Get_Certified_Online_api.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.pdb
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Humanizer.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.csproj.AssemblyReference.cache
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.AssemblyInfoInputs.cache
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.AssemblyInfo.cs
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.csproj.CoreCompileInputs.cache
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.MvcApplicationPartsAssemblyInfo.cs
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.MvcApplicationPartsAssemblyInfo.cache
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\staticwebassets\Get_Certified_Online_api.StaticWebAssets.Manifest.cache
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\staticwebassets\Get_Certified_Online_api.StaticWebAssets.xml
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\scopedcss\bundle\Get_Certified_Online_api.styles.css
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.RazorTargetAssemblyInfo.cache
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.csproj.CopyComplete
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\ref\Get_Certified_Online_api.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.pdb
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.genruntimeconfig.cache
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Assignment i_digital\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\appsettings.Development.json
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\appsettings.json
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.exe
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.deps.json
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.runtimeconfig.json
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.runtimeconfig.dev.json
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\ref\Get_Certified_Online_api.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Get_Certified_Online_api.pdb
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Humanizer.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.csproj.AssemblyReference.cache
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.AssemblyInfoInputs.cache
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.AssemblyInfo.cs
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.csproj.CoreCompileInputs.cache
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.MvcApplicationPartsAssemblyInfo.cs
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.MvcApplicationPartsAssemblyInfo.cache
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\staticwebassets\Get_Certified_Online_api.StaticWebAssets.Manifest.cache
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\staticwebassets\Get_Certified_Online_api.StaticWebAssets.xml
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\scopedcss\bundle\Get_Certified_Online_api.styles.css
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.RazorTargetAssemblyInfo.cache
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.csproj.CopyComplete
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\ref\Get_Certified_Online_api.dll
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.pdb
+E:\Get_Certified_Online\Get_Certified_Online_api\Get_Certified_Online_api\obj\Debug\net5.0\Get_Certified_Online_api.genruntimeconfig.cache
