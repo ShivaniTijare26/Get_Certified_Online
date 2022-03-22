@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import Logo from './components/img/logo1.jpg';
-let url='http://localhost:3000/Login';
-let url1='http://localhost:3000/Register';
+let url='https://gco-fend.azurewebsites.net/Login';
+let url1='https://gco-fend.azurewebsites.net/Register';
 
 function MainHome(){
 

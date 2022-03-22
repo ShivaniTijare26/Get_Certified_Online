@@ -161,14 +161,14 @@ class Login extends Component{
        //console.log(this.result.role)
        if(result.role=='Admin')
        {
-       window.open("http://localhost:3000/AdminHome","_self")
+       window.open("https://gco-fend.azurewebsites.net/AdminHome","_self")
       // return <OwnerHomeComponent />;
      // newWindow.my_special_setting=result.userId;
       
        }
        else if(result.role=='User')
        {
-       var newWindow=window.open("http://localhost:3000/UserHome","_self")
+       var newWindow=window.open("https://gco-fend.azurewebsites.net/UserHome","_self")
 
         //  var newWindow=window.open("http://localhost:3000/restaraunts/","_self")
         //var newWindow.userId=result.userId;

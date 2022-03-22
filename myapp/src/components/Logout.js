@@ -1,8 +1,8 @@
 import React,{Component} from 'react';
 import {Link } from 'react-router-dom';
 import Home from './Home';
-let url='http://localhost:3000/Login';
-let url1='http://localhost:3000/AdminHome';
+let url='https://gco-fend.azurewebsites.net/Login';
+let url1='https://gco-fend.azurewebsites.net/AdminHome';
 
 
 function Logout(){
