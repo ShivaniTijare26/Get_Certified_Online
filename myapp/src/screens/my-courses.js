@@ -13,7 +13,7 @@ export class MyCoursesPage extends Component
     refreshList()
     {
         //fetch(process.env.REACT_APP_API+'course')
-        fetch('https://localhost:5000/api/Admin/ViewAllCourse')
+        fetch('https://gco-apinew.azurewebsites.net/api/Admin/ViewAllCourse')
        // fetch('http://localhost:10434/swagger')
         .then(response=>response.json())
         .then(data=>{

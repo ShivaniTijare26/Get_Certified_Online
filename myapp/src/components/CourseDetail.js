@@ -12,7 +12,7 @@ export class CourseDetail extends Component
     }
     refreshList(){
         //fetch(process.env.REACT_APP_API+'course')
-        fetch('https://localhost:5000/api/Admin/ViewAllCourseDetails')
+        fetch('https://gco-apinew.azurewebsites.net/api/Admin/ViewAllCourseDetails')
        // fetch('http://localhost:10434/swagger')
         .then(response=>response.json())
         .then(data=>{
@@ -29,7 +29,7 @@ export class CourseDetail extends Component
     }
     deleteCou(detid){
         if(window.confirm('Are you sure?')){
-            fetch('https://localhost:5000/api/Admin/DeleteCourseDetailById/'+detid,{
+            fetch('https://gco-apinew.azurewebsites.net/api/Admin/DeleteCourseDetailById/'+detid,{
                 method:'DELETE',
                 header:{'Accept':'application/json',
             'Content-Type':'application/json'}

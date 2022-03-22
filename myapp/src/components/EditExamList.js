@@ -10,7 +10,7 @@ export class EditExamList extends Component{
     handleSubmit(event){
         event.preventDefault();
         //fetch(process.env.REACT_APP_API+'course'
-        fetch('https://localhost:5000/api/Admin/EditExam',{
+        fetch('https://gco-apinew.azurewebsites.net/api/Admin/EditExam',{
             method:'PUT',
             headers:{
                 'Accept':'application/json',

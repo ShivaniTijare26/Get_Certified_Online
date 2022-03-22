@@ -8,7 +8,7 @@ export class Users extends Component
     }
     refreshList(){
         //fetch(process.env.REACT_APP_API+'course')
-        fetch('https://localhost:5000/api/Admin/ViewAllUsers')
+        fetch('https://gco-apinew.azurewebsites.net/api/Admin/ViewAllUsers')
        // fetch('http://localhost:10434/swagger')
         .then(response=>response.json())
         .then(data=>{

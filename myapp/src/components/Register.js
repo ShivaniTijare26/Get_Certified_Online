@@ -6,7 +6,7 @@ import Login from './Login';
 import {Redirect} from 'react-router-dom';
 import Form from "react-validation/build/form";
 //import { SyntheticEvent } from 'react';
-let url='http://localhost:3000/';
+let url='https://gco-fend.azurewebsites.net/';
 const Register=()=>
 {
     const[firstName,setFirstName]=useState("")
@@ -23,7 +23,7 @@ const Register=()=>
     const submit =async (e)=>{
        // e.stopPropagation();
        e.preventDefault();
-        await fetch("https://localhost:5000/api/User/Add_User_For_Registration", {
+        await fetch("https://gco-apinew.azurewebsites.net/api/User/Add_User_For_Registration", {
             method:'POST',
             headers:{
                 "Content-Type":'application/json',

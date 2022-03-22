@@ -10,7 +10,7 @@ export class AddExamList extends Component{
     handleSubmit(event){
         event.preventDefault();
         //fetch(process.env.REACT_APP_API+'course'
-        fetch('https://localhost:5000/api/Admin/AddExamToExamlist',{
+        fetch('https://gco-apinew.azurewebsites.net/api/Admin/AddExamToExamlist',{
             method:'POST',
             headers:{
                 'Accept':'application/json',

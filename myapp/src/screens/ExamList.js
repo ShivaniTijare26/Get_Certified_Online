@@ -12,7 +12,7 @@ export class ExamList extends Component {
     }
     refreshList() {
         //fetch(process.env.REACT_APP_API+'course')
-        fetch('https://localhost:5000/api/Admin/ViewAllExams')
+        fetch('https://gco-apinew.azurewebsites.net/api/Admin/ViewAllExams')
             // fetch('http://localhost:10434/swagger')
             .then(response => response.json())
             .then(data => {

@@ -8,7 +8,7 @@ let url1='http://localhost:3000/AdminHome';
 function Logout(){
 
     const logout=async ()=>{
-        await fetch("https://localhost:5000/api/Admin/Logout",{
+        await fetch("https://gco-apinew.azurewebsites.net/api/Admin/Logout",{
             method:'POST',
             headers:{
                 "Content-Type":'application/json',

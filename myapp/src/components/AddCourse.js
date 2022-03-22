@@ -10,7 +10,7 @@ export class AddCourse extends Component{
     handleSubmit(event){
         event.preventDefault();
         //fetch(process.env.REACT_APP_API+'course'
-        fetch('https://localhost:5000/api/Admin/AddCourse',{
+        fetch('https://gco-apinew.azurewebsites.net/api/Admin/AddCourse',{
             method:'POST',
             headers:{
                 'Accept':'application/json',
